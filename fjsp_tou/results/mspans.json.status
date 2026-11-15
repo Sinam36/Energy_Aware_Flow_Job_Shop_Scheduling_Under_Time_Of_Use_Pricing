@@ -1,0 +1,37 @@
+{
+ "sfjs01": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 0.1
+ },
+ "sfjs04": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 1.9
+ },
+ "sfjs07": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 0.2
+ },
+ "sfjs10": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 0.8
+ },
+ "mfjs01": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 11.2
+ },
+ "mfjs03": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 37.3
+ },
+ "mfjs05": {
+  "status": "Optimal",
+  "gap": 0.0,
+  "time": 77.8
+ }
+}
